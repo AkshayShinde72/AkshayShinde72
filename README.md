@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working software Development <br>🎯 Goals: to be a industrial ready</p>
+<p align="left">📚 I’m a passionate Junior Software Developer with 3+ Years experience in designing and developing scalable, secure, and efficient web applications using Java, Spring Boot, Spring MVC, and MySQL. I specialize in building robust backend services, REST APIs, and clean front-end interfaces with JSP, Thymeleaf, HTML, CSS, and JavaScript.
 
 ###
 
