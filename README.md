@@ -13,7 +13,7 @@
 <img align="right" height="250" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966"  />
 
 ###
-
+<div>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
