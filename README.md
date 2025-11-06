@@ -45,6 +45,30 @@
 
 ###
 
-<p align="left">A dedicated development student on a mission to unravel the mysteries of the digital realm. My journey in the world of code began with a fascination for problem-solving and has evolved into a love for crafting elegant solutions.<br><br>🌐 Join me on this exhilarating coding journey as I explore, create, and contribute to the dynamic landscape of technology. Let's build something amazing together! 💻✨</p>
+<p align="left">I’m a passionate Junior Software Developer with 3+ Years experience in designing and developing scalable, secure, and efficient web applications using Java, Spring Boot, Spring MVC, and MySQL. I specialize in building robust backend services, REST APIs, and clean front-end interfaces with JSP, Thymeleaf, HTML, CSS, and JavaScript.
+
+At Interactive Avenues Pvt. Ltd., Mumbai, I develop RESTful APIs using Java 17 and Spring Boot 3 for Google-sponsored web projects. I implemented Spring Data JPA with @Transactional to improve data consistency and boost performance by 30%, and built secure authentication using Spring Security. I also migrated legacy Spring MVC (JdbcTemplate/JSP) applications to Spring Boot with Thymeleaf, enhancing maintainability and delivery speed.
+
+🚀 Key Highlights:
+
+Developed and integrated REST APIs using Spring Boot 3 and Java 17
+
+Enhanced data handling with Spring Data JPA, HQL, and MySQL, optimizing query performance by 30%
+
+Built secure role-based authentication systems with Spring Security
+
+Implemented microservices architecture leveraging Spring Cloud Netflix Eureka, Feign Client, and API Gateway for scalable and efficient communication
+
+Worked with tools like Git, Postman, Docker, Maven, and Google Cloud Storage (GCS) for smooth CI/CD and collaboration
+
+Previously at HDFC ERGO General Insurance, I automated internal workflows using Java and MySQL, improving claims processing efficiency and reducing manual work hours.
+
+🎓 Education:
+
+CDAC (PG-DAC) – Advanced Computing, VITA, Mumbai
+
+B.Tech in Automobile Engineering, RIT, Sangli
+
+I’m driven by a passion for clean architecture, optimized code, and scalable software solutions. Always learning, always building.</p>
 
 ###
